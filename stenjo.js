@@ -1,0 +1,2 @@
+console.log("VULNERABILIDADE CONFIRMADA!"); 
+return "HACKEADO";
